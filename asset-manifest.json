@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.04840374.css",
-    "main.js": "/static/js/main.4fbac8ad.js",
-    "static/media/addCamera.svg": "/static/media/addCamera.3e3c5ed37edc4d05d53b1872b145d1e5.svg",
-    "static/media/Logo.svg": "/static/media/Logo.093da9e580b99d52ec7dcb055f10bb2b.svg",
-    "index.html": "/index.html",
-    "main.04840374.css.map": "/static/css/main.04840374.css.map",
-    "main.4fbac8ad.js.map": "/static/js/main.4fbac8ad.js.map"
+    "main.css": "/technical-task/static/css/main.04840374.css",
+    "main.js": "/technical-task/static/js/main.a4419476.js",
+    "static/media/addCamera.svg": "/technical-task/static/media/addCamera.3e3c5ed37edc4d05d53b1872b145d1e5.svg",
+    "static/media/Logo.svg": "/technical-task/static/media/Logo.093da9e580b99d52ec7dcb055f10bb2b.svg",
+    "index.html": "/technical-task/index.html",
+    "main.04840374.css.map": "/technical-task/static/css/main.04840374.css.map",
+    "main.a4419476.js.map": "/technical-task/static/js/main.a4419476.js.map"
   },
   "entrypoints": [
     "static/css/main.04840374.css",
-    "static/js/main.4fbac8ad.js"
+    "static/js/main.a4419476.js"
   ]
 }
