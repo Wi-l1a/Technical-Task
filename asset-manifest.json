@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/technical-task/static/css/main.04840374.css",
+    "main.js": "/technical-task/static/js/main.3b4c3985.js",
+    "static/media/addCamera.svg": "/technical-task/static/media/addCamera.3e3c5ed37edc4d05d53b1872b145d1e5.svg",
+    "static/media/Logo.svg": "/technical-task/static/media/Logo.093da9e580b99d52ec7dcb055f10bb2b.svg",
+    "index.html": "/technical-task/index.html",
+    "main.04840374.css.map": "/technical-task/static/css/main.04840374.css.map",
+    "main.3b4c3985.js.map": "/technical-task/static/js/main.3b4c3985.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04840374.css",
+    "static/js/main.3b4c3985.js"
+  ]
+}
